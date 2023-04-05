@@ -25,7 +25,7 @@ Color = {
 
 
 State = {
-            'up'   :['ini','ini','ini','ini','white','ini','ini','ini','ini',],
+           'up'   :['ini','ini','ini','ini','white','ini','ini','ini','ini',],
             'right':['ini','ini','ini','ini','red','ini','ini','ini','ini',],
             'front':['ini','ini','ini','ini','green','ini','ini','ini','ini',],
             'down' :['ini','ini','ini','ini','yellow','ini','ini','ini','ini',],
